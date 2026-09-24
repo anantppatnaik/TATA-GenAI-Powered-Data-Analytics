@@ -174,16 +174,6 @@ Tata-GenAI-Powered-Data-Analytics/
 
 ---
 
-## ⚠️ Dataset Notice
-
-The original customer dataset used in this simulation was provided by **Forage**.
-
-Due to **proprietary and usage restrictions**, the original dataset is **not included in this repository**.
-
-The repository contains my completed analysis, reports, strategy documentation, and certificate.
-
----
-
 ## 🎓 About the Simulation
 
 **Program:** Tata GenAI Powered Data Analytics
